@@ -1,0 +1,41 @@
+/* ::::: https://secure.shared.live.com/~Live.SiteContent.ID/~16.2.8/~/~/~/~/css/R3WinLive1033.css ::::: */
+
+* { font-size: 100%; font-family: Segoe UI,Tahoma,Verdana,Arial; letter-spacing: 0.03em; }
+body { font-size: 8.12pt; color: rgb(68, 68, 68); margin: 0pt; overflow: auto; }
+form { margin: 0pt; }
+a { text-decoration: none; color: rgb(0, 102, 204); }
+a:hover { text-decoration: underline; color: rgb(0, 102, 204); }
+img { border: 0pt none; }
+p { margin: 5px 0pt 4px; }
+.cssLogo { margin: 0pt 20px 0pt 0pt; vertical-align: middle; }
+.cssFooterPadding { padding: 4px 8px; }
+.cssFooterPadding * {  }
+td#footerTD { width: 100%; border-top: 1px solid rgb(205, 221, 244); color: rgb(102, 102, 102); }
+td#productTD { text-align: left; vertical-align: top; width: 475px; }
+td#rightTD, td#moreTD {  }
+td#rightTD { vertical-align: top; }
+td#moreTD { text-indent: 4px; }
+td#separatorTD { border-left: 1px solid rgb(221, 221, 221); height: 236px; width: 20px; }
+.cssHelpText { color: rgb(102, 102, 102); padding: 1px 0pt 2px; }
+.cssHelpDiv { margin: 4px 0pt 0pt 3px; font-size: 100%; width: 75%; cursor: text; }
+.cssCheckbox { text-indent: -4px; margin-left: 0pt; margin-top: 0px; margin-bottom: 0px; height: 13px; }
+.cssTextBoxTD { width: 100%; padding: 0pt 0pt 15px; }
+.cssTextInput { width: 75%; }
+.cssWLGradientCommon { margin: 0pt; padding: 0pt; }
+.cssWLGradientIMG, .cssWLGradientIMGSSL { background: none repeat-x scroll left top transparent; top: 0pt; height: 86px; }
+.cssSubHeader { color: rgb(68, 68, 68); font-size: 29pt; padding-bottom: 43px; }
+.cssHeaderText { font-size: 133%; color: rgb(68, 68, 68); }
+#mainTD { padding: 0pt 0pt 30px; }
+#ctTBL { width: 100%; }
+#shellTBL { width: 890px; }
+.cssIconMapClip { display: inline-block; }
+.cssIconMapImg { position: absolute; }
+.clip16x16, .clip8x8, .clip7x4, .clip22x22, .clip14x14, .clip61x61, .clip46x46, .clip175x23, .clip24x24 { position: relative; overflow: hidden; }
+.clip175x23 { width: 175px; height: 23px; }
+.clip16x16 img, .clip16x16 input, .clip8x8 img, .clip8x8 input, .clip7x4 img, .clip7x4 input, .clip22x22 img, .clip22x22 input, .clip14x14 img, .clip14x14 input, .clip61x61 img, .clip61x61 input, .clip46x46 img, .clip46x46 input, .clip175x23 img, .clip175x23 input, .clip24x24 img, .clip24x24 input { position: absolute; }
+.iconmap_windowslive { top: 0px; left: 0px; }
+body { display: none; }
+.cssWLGradientIMG, .cssWLGradientIMGSSL { background-image: url('wave3header.jpg'); }
+body { display: block ! important; }
+a, a:link, a:active, a:visited { font-size: 9.6pt; color: rgb(0, 102, 204); text-decoration: none; }
+a:hover { text-decoration: underline; }

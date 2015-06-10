@@ -1,0 +1,375 @@
+/* ::::: http://css.wlxrs.com/yeoxPIl1FjwgWYwujPe4YVnFJuVfwa3v5-wnGhc3Qu6mjV!9EPkAwdO0dyDyXqIXcRqBglWlDnLPl!wiKXlO1Q/Base/16.0.1985/NYKpPzcj59cwlx_hotmailHome.css?ZfDHJ0dwkwrfIMoja3-R7w ::::: */
+
+.Toolbar { color: rgb(42, 42, 42); border: 1px solid rgb(204, 204, 204); }
+.c_ads_acb { text-align: right ! important; padding-right: 1px; font-size: 84.6%; }
+.c_ads_acbreport, .c_ads_acbclose { font-size: 105%; }
+.c_ads_acb a, .c_ads_acb a:hover, .c_ads_acb a:visited { color: rgb(119, 119, 119); }
+.c_hl { text-align: left; white-space: nowrap; }
+.c_is { vertical-align: middle; margin-right: 3px; width: 18px; height: 17px; margin-top: 1px; display: inline-block; font-family: Arial; line-height: 0; font-size: 0pt; }
+.Firefox .c_hl .c_is { margin-top: -2px; }
+.c_tm { font-size: 8px; vertical-align: 4px; text-decoration: none; }
+.c_hlp { font-size: 120%; }
+.c_hbrnd { font-family: "BBAlpha Sans","Prelude Medium","S60 Sans",Tahoma,Verdana,Arial,"sans-serif"; }
+.IE_M7 .c_hbrnd, .IE_M8 .c_hbrnd, .Win6 .c_hbrnd { font-family: "Segoe UI",Tahoma,Verdana,Arial; }
+.c_mm_clc { padding: 2px; list-style: none outside none; text-align: left; width: auto; }
+.c_mm_clc .c_mm_dn, .c_mm_clc .c_ms.c_mm_dn, .c_h .c_ht .c_mm_clc .c_mm_dn { display: none; }
+.c_mm_clcHotmailLeftNav { margin-bottom: 0pt; padding: 0pt; }
+.c_mm_clcHeader { width: 170px; }
+.c_mm_clc ul { padding: 0pt; margin: 0pt; list-style: none outside none; }
+.c_mm_clc li {  }
+.c_mm_clcHotmailLeftNav li, .c_mm_clcHome li { margin-bottom: 0pt; }
+.c_mm_clc a { display: block; }
+.c_mm_status div.statusText { padding: 4px; }
+.c_mm_clc .c_mm_va { display: none; }
+.c_mm_links li, .c_mm_links a { display: inline; }
+.c_mm_clcHotmailLeftNav .c_mm_links li { display: block; }
+.c_mm_clcHeader .c_mm_links li, .c_mm_clcHeader .c_mm_links a { display: block; margin-left: 0pt; margin-right: 0pt; }
+.c_mm_clcHeader .c_mm_links ul { padding-top: 1px; }
+.statusText span, .statusText a, .c_mm_nco .statusText span, .c_mm_nco .statusText a { display: block; padding: 0pt 6px 2px; color: rgb(110, 110, 110); white-space: normal; }
+.statusText a, .c_mm_clc a.c_mm_pic { display: inline; }
+#uxp_ftr_control { clear: both; border-top: 1px solid rgb(204, 204, 204); width: 100%; font-size: 100%; color: rgb(42, 42, 42); background-color: rgb(252, 252, 252); }
+#uxp_ftr_control td { padding: 8px 0pt; vertical-align: top; }
+#uxp_ftr_control td#uxp_ftr_right { text-align: right; }
+#uxp_ftr_control ul { margin: 0pt; padding: 0pt; list-style: none outside none; }
+#uxp_ftr_control ul li { float: left; padding: 0pt 8px; }
+#uxp_ftr_control ul li a { text-decoration: none; color: rgb(42, 42, 42); white-space: nowrap; }
+#uxp_ftr_control ul li span { white-space: nowrap; color: rgb(110, 110, 110); }
+#uxp_ftr_control ul li a:hover { text-decoration: underline; }
+#uxp_ftr_right_nest { margin: 0pt 0pt 0pt auto; padding: 0pt; font-size: 100%; }
+#uxp_ftr_right_nest td { margin: 0pt; padding: 0pt; }
+* { line-height: 131%; }
+body { margin: 0pt; font-family: "BBAlpha Sans","Prelude Medium","S60 Sans",Tahoma,Verdana,Arial,"sans-serif"; color: rgb(42, 42, 42); background-color: rgb(252, 252, 252); background-image: none; background-repeat: repeat; background-position: left top; direction: ltr; font-size: 83%; }
+body.IE_M7, body.IE_M8, body.IE_WinMo, body.Win6, body.Win7 { font-family: "Segoe UI",Tahoma,Verdana,Arial; }
+label { color: rgb(42, 42, 42); }
+input, select, textarea, button { font-size: 100%; font-family: "Segoe UI",Tahoma,Verdana,Arial; }
+h1 { color: rgb(0, 0, 0); }
+h1, h2 { font-size: 161.7%; }
+h3 { font-size: 125%; }
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+h1, h2, h3, h4, h5, h6 { line-height: 110%; margin: 0pt 0pt 5px; }
+a { font-weight: inherit; text-decoration: none; color: rgb(0, 102, 204); cursor: pointer; }
+a:visited { color: rgb(0, 102, 204); }
+a:hover { text-decoration: underline; }
+ul { margin: 0pt 0pt 20px 1em; padding: 0pt 0pt 0pt 1em; list-style-type: disc; }
+li { margin: 0pt 0pt 3px; }
+a img { border: 0pt none; }
+.c_hg, .c_hg_pm { background-repeat: repeat-x; background-position: center bottom; }
+.c_h { position: relative; z-index: 2000000; cursor: default; min-height: 42px; margin: 0pt auto; padding: 6px 20px 0pt; }
+#c_header .c_h .c_htr a:hover { text-decoration: none; }
+.c_htr { white-space: nowrap; }
+.c_hleft { float: left; position: relative; z-index: 2000000; }
+.c_hright { text-align: right; }
+.Firefox .c_nootl { outline-style: none; border: 1px dotted transparent; }
+.Firefox .c_nootl:focus { border: 1px dotted black; }
+.c_h .c_hl { margin-right: 20px; }
+.c_ht { display: inline; padding-right: 10px; padding-left: 0pt; margin-left: 0pt; }
+ul.c_ht > li > span.c_ms { vertical-align: middle; display: inline-block; width: 16px; height: 11px; margin-right: -4px; border-left: 0pt none rgb(110, 110, 110); }
+.RE_WebKit ul.c_ht > li > span.c_ms, .Firefox ul.c_ht > li > span.c_ms { vertical-align: middle; }
+.c_h .c_mli a, .c_h .c_m li a, .c_h .c_m li span.link { color: rgb(42, 42, 42) ! important; }
+.c_ht a { white-space: nowrap; }
+.c_ht li { list-style: none outside none; margin-right: 20px; }
+.c_ht li a.uxfa_ml { font-size: 105%; }
+.ltr .c_ht li, .IE .c_ht li, .ltr .c_hl, .IE .c_hl { display: inline; }
+.ltr .c_ht .c_m li, .IE .c_ht .c_m li { display: block; }
+.c_ht li:after { content: " "; }
+.c_ht > li {  }
+.c_ht > li > a {  }
+.c_h .c_me { position: relative; top: 2px; }
+.c_me a { display: inline; white-space: nowrap; z-index: 3000000; color: rgb(42, 42, 42); }
+.c_me .c_ld { color: rgb(199, 199, 199); }
+.c_me a .c_ic_i { visibility: hidden; }
+span.c_melnkspan { display: block; overflow: hidden; text-overflow: ellipsis; }
+span.c_melnkspan a { overflow: hidden; text-overflow: ellipsis; }
+a#c_melink { text-decoration: none; }
+.c_h a.c_haschev { display: inline-block ! important; }
+a.c_haschev { display: block ! important; }
+.c_mename { text-overflow: ellipsis; white-space: nowrap; overflow: hidden; }
+#c_mechev { float: right; }
+.c_h #c_mechev { float: none; position: absolute; right: -8px; }
+.rtl #c_melink .c_ic_i, .Safari #c_melink .c_ic_i, .Firefox #c_melink .c_ic_i { line-height: 100%; }
+.Firefox #c_melink .c_ic_i { vertical-align: text-top; }
+#c_melink .c_ic_i { font-size: 125%; }
+#c_melink .c_ic_i img { vertical-align: middle; }
+.RE_WebKit #c_melink .c_ic_i .is_c, .Firefox #c_melink .c_ic_i .is_c { vertical-align: top; display: inline-block; }
+.Firefox .c_h #c_melink .is_c:before, .RE_WebKit .c_h #c_melink .is_c:before { content: " "; }
+.c_me .c_m li .is_c { vertical-align: 1px; }
+.c_hsopr { right: 0pt; font-family: Verdana; font-size: 65%; margin-top: 4px; position: absolute; z-index: 1; }
+.c_me .c_chev { margin-top: 0.7em; }
+.c_h .c_me .c_m li .c_wimm_st { color: rgb(110, 110, 110) ! important; }
+.c_meun { text-overflow: ellipsis; overflow: hidden; }
+.c_h .c_me span.c_meun { font-size: 125%; }
+.c_clr { clear: both; display: block; }
+.TextItalic { font-style: italic; }
+.c_ic * a img, .c_ic * img { border-width: 0pt; }
+.c_ic { position: relative; }
+.c_ic_hide { display: none; }
+.c_ic_img_sub { position: relative; top: 0pt; left: 0pt; }
+.c_ic_img_h { float: left; }
+.c_ic_text_h { float: left; text-align: left; padding-left: 5px; width: 165px; }
+.c_ic_frame_clip { position: absolute; z-index: 30; overflow: hidden; top: 0pt; left: 0pt; }
+.c_ic_frame_clip img { z-index: 25; }
+.c_ic_tile_clip { overflow: hidden; position: absolute; z-index: 20; cursor: pointer; }
+.c_ic_fstarp { float: left; margin-left: 5px; vertical-align: middle; width: 14px; height: 14px; }
+.c_ic_fstarp_hide { display: none; }
+.c_ic_fstar { background-position: -56px -194px; width: 14px; height: 14px; }
+.c_ic_i .c_ic_blueframe { background-position: -60px -183px; }
+.c_ic_i a.c_ml { display: inline-block; }
+.c_ic_i .is_img, .IE_M6 .c_ic_i .is_hcimg, .c_ic_i .is_i { width: 11px; height: 9px; }
+.c_ic_h_m_t, .IE_M6 .c_m .c_ic_h_m_t, .IE_M6 .c_m .c_icinmenu2 .c_ic_text_h, .IE_M6 .c_m .c_icinmenu2 .c_ic_text_h .c_ic_psm, .IE_M6 .c_m .c_icinmenu2 .c_ic_text_h .c_ic_name { width: 230px; }
+.c_ic_img_m, .IE_M6 .c_ic_img_m .is_hcimg, .c_ic_img_m .is_img, .c_ic_img_m .is_i { width: 40px; height: 42px; }
+.c_ic_img_m .c_ic_frame_clip { width: 40px; height: 42px; }
+.c_ic_img_m .c_ic_blueframe { background-position: -145px -51px; }
+.c_ic_img_m .c_ic_tile_clip { width: 32px; height: 32px; left: 4px; top: 5px; }
+.c_ic_name, .c_ic_name .Emoticon, .c_ic_psm .Emoticon { vertical-align: middle; }
+.c_ic_psm { color: rgb(110, 110, 110); }
+.c_ic_h_m_t .c_ic_name_m, .c_ic_h_m_t .c_ic_psm { max-width: 165px; }
+.IE_M6 .c_ic_h_m_t .c_ic_name_m, .c_ic_h_m_t .c_ic_psm { width: 165px; }
+.c_ic_v_m_t .c_ic_name_m, .c_ic_v_m_t .c_ic_psm, .c_ic_h_m_t .c_ic_name_m, .c_ic_h_m_t .c_ic_psm { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.is_c { vertical-align: middle; }
+ul.c_m { background: none repeat scroll 0% 0% rgb(252, 252, 252); border: 1px solid rgb(204, 204, 204); position: absolute; visibility: hidden; margin: 0pt; padding: 0pt 0pt 2px; list-style: none outside none; z-index: 4000001; min-width: 120px; top: 0pt; left: 0pt; text-align: left; }
+.c_shad { z-index: 4000000; }
+.c_mli, .c_m li { margin: 2px 2px 0pt; display: block; list-style: none outside none; }
+.c_m li a {  }
+.c_mli a, .c_m li a, .c_m li span.link, .c_m li span.c_ld { text-align: left; display: block; text-decoration: none; white-space: nowrap; border: 1px solid rgb(252, 252, 252); }
+.c_mli a, .c_m li a, .c_m li span.link, .c_m li span.c_ld { text-overflow: clip; overflow: visible; padding: 0pt 6px 2px; }
+.c_mli a, .c_m li a, .c_m li span.link { color: rgb(42, 42, 42); }
+.c_m li a:visited, .c_m li a, .c_m li span.link:visited, .c_m li span.link { color: rgb(42, 42, 42); }
+.c_mli a:hover, .c_m li a:hover, .c_mli a.t_hov, .c_m li a.t_hov, .c_mli span.link:hover, .c_m li span.link:hover, .c_mli span.link.t_hov, .c_m li span.link.t_hov { text-decoration: none; color: rgb(42, 42, 42); }
+a.c_ml { white-space: nowrap; }
+.c_chev { font-size: 0.5em; vertical-align: middle; font-family: Arial; }
+a.c_ml:hover { text-decoration: none; }
+.c_m .c_ms { display: block; border-bottom: 1px solid rgb(220, 220, 220); border-left: 0pt none; border-right: 0pt none; margin: 2px 2px 0pt; }
+.c_search_mc { border: 1px solid rgb(204, 204, 204); background-color: rgb(255, 255, 255); white-space: nowrap; position: relative; height: 22px; padding-right: 31px; background-position: right center; background-repeat: no-repeat; }
+.c_search_mc input.c_search_box { margin: 2px 0pt 2px 2px; padding-left: 5px; border: 0pt none; color: rgb(42, 42, 42); height: 1.3em; line-height: 1.2em; background: none repeat scroll 0% 0% transparent; width: 100%; }
+.c_search_mc input.c_search_go { border: 0pt none; width: 20px; height: 20px; background: none no-repeat scroll left top rgb(252, 252, 252); overflow: hidden; cursor: pointer; position: absolute; right: 1px; top: 50%; margin-top: -10px; padding: 0pt; }
+div.c_search_status, .c_search_mc label { display: none; }
+.c_search_mc .c_search_heading { color: rgb(110, 110, 110) ! important; }
+.c_search_mc .c_m li a { overflow: hidden; text-overflow: ellipsis; }
+.c_search_mc ul.c_search_menu { width: 100%; }
+.t_sel { background-color: rgb(221, 236, 254); border: 1px solid rgb(131, 170, 218); }
+.t_hov { background-color: rgb(243, 247, 253); border: 1px solid rgb(187, 216, 251); }
+.t_hovl a:hover { background-color: rgb(243, 247, 253); border: 1px solid rgb(187, 216, 251); }
+.t_hovl a.sel { background-color: rgb(221, 236, 254); border: 1px solid rgb(131, 170, 218); }
+.t_hdt, h1, .t_hdt a, .t_hdt a:visited, .t_hdt a:hover, .t_hdt a:link { color: rgb(0, 0, 0); }
+.t_hp { border-left: 1px solid rgb(85, 85, 85); border-right: 1px solid rgb(85, 85, 85); }
+.t_hdbg { background-color: rgb(214, 238, 248); }
+h2, h2 a, h2 a:visited, h3, h3 a, h3 a:visited, h4, h5, h6, .t_cht { color: rgb(0, 110, 18) ! important; }
+.t_hdbg { background-color: rgb(214, 238, 248); }
+a, a:hover, .t_lnk a, .t_lnk a:link, .t_lnk a:hover, .t_elnk { color: rgb(0, 102, 204); }
+a:visited, .t_lnk a:visited { color: rgb(0, 102, 204); }
+.t_hdbgimg { background-image: url('default_final_ltr.jpg'); background-repeat: repeat-x; background-position: center 0px; }
+/* ::::: http://gfx4.hotmail.com/mail/16.0.1877.0920/styles/Base/Full/hig.css ::::: */
+
+.BorderTop { border-top: 1px solid rgb(204, 204, 204); }
+.BorderNoTop { border-right: 1px solid rgb(204, 204, 204); border-width: 0pt 1px 1px; border-style: none solid solid; border-color: -moz-use-text-color rgb(204, 204, 204) rgb(204, 204, 204); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; }
+.BorderBox, TEXTAREA { border: 1px solid rgb(204, 204, 204); }
+.DefaultFont, BODY, TEXTAREA, SELECT, INPUT { color: rgb(42, 42, 42); }
+Body #HeaderContainer { width: 100%; }
+BODY { margin: 0pt; }
+SELECT, INPUT, TEXTAREA { font-size: 1em; }
+A IMG { border: medium none; }
+A:hover { text-decoration: underline; }
+.InfoPaneInner { border: 1px solid rgb(204, 204, 204); }
+.List A:hover { text-decoration: none; }
+.ClearBoth { clear: both; }
+.DisplayNone { display: none; }
+.UiButton:disabled, input:disabled { color: gray; }
+.FloatLeft, .ToolbarItemFirst, .ToolbarItem, .EditContact .Values, .ContactDetails .Value { float: left; }
+.FloatRight { float: right; }
+HTML.Unmanaged { overflow-y: scroll; }
+.Unmanaged #MainContent { position: relative; clear: both; min-height: 622px; margin-right: 3px; }
+.Unmanaged .WithSkyscraper #MainContent { min-height: 622px; margin-right: 163px; }
+.ContentLeft { width: 150px; overflow: hidden; margin-right: 5px; margin-left: 5px; }
+.ProductNameContainer { height: 2.35em; position: relative; margin-left: 11px; }
+.ProductNameContainer H1 { font-size: 160%; color: rgb(0, 0, 0); }
+.ErrorPriHigh, .ErrorPriMedium, .ErrorPriLow, .LoadingIndicator, .priority-low, .priority-medium, .priority-high { padding: 4px 8px; clear: both; }
+.ErrorPriMedium, .ErrorPriMedium BUTTON, .LoadingIndicator, .priority-medium { background: none repeat scroll 0% 0% rgb(255, 255, 174); }
+.ErrorImg { vertical-align: middle; margin-right: 4px; }
+.Toolbar { height: 2.35em; border-width: 0pt; }
+.Unmanaged .Toolbar { list-style: none outside none; margin: 0pt; padding: 0pt; border-width: 0pt; }
+.TodayPage .BottomUnmanaged .Toolbar, .SmcPage .BottomUnmanaged .Toolbar, .Firefox .BottomUnmanaged .Toolbar UL, .Safari .BottomUnmanaged .Toolbar UL { height: 2.35em; }
+.BottomUnmanaged .Toolbar .c_mcp UL { height: auto; }
+.Toolbar UL { list-style: none outside none; margin: 0pt; padding: 0pt; }
+.Toolbar ul.c_m { padding-bottom: 2px; }
+.ToolbarItemFirst, .ToolbarItem { display: block; white-space: nowrap; }
+LI.ToolbarItemHolder { margin: 0pt; }
+.BottomUnmanaged .ToolbarItem { margin-bottom: 0pt; }
+.ToolbarHelpLink { padding-right: 4px; }
+.Firefox .ToolbarHelpLink .c_chev, .Safari .ToolbarHelpLink .c_chev { vertical-align: 5px; }
+.ToolbarItem A, .ToolbarItemFirst A, .ToolbarItem SPAN.Disabled, .ToolbarLabel { padding: 3px; margin: 3px; }
+.ToolbarItem A, .ToolbarItemFirst A, .ToolbarLabel { display: block; }
+.ToolbarItemFirst A, .ToolbarItemFirst.ToolbarLabel { padding-left: 0pt; margin-left: 0pt; }
+.ToolbarItem A:hover span.c_ddtxt, .Managed .ToolbarItem A:hover span.c_ddtxt { text-decoration: underline; }
+.ToolbarPipe { padding: 6px; display: block; color: rgb(204, 204, 204); }
+.c_mcp a:hover span.c_ddtxt { text-decoration: none ! important; }
+#toolbarContainer .ToolbarItem { margin-bottom: 0pt; }
+.Crm120Container { margin: 16px 0pt 16px 11px; text-align: left; }
+.Unmanaged .SkyscraperContainer { position: absolute; top: 0pt; right: -162px; }
+.Unmanaged .WithSkyscraper .SkyscraperContainer { right: 0pt; }
+.App.Managed .InfoPaneContainer, .App.BottomUnmanaged .InfoPaneContainer { position: absolute; top: 2.35em; left: 0pt; right: 3px; z-index: 1; }
+.FooterContainer { position: absolute; left: 0pt; right: 0pt; display: none; }
+.Managed #ManagedContentWrapper, .BottomUnmanaged #ManagedContentWrapper { position: absolute; top: 2.55em; right: 3px; bottom: 0pt; left: 0pt; }
+.IframeContentWrapper { display: none; }
+.IframeContentWrapper IFRAME { width: 100%; height: 100%; left: 0pt; position: absolute; }
+.DivLine { position: relative; left: 12px; border-bottom: 1px solid rgb(220, 220, 220); }
+HTML.BottomUnmanaged, HTML.BottomUnmanaged BODY { width: 100%; height: 100%; }
+.App.BottomUnmanaged .AppInner { position: absolute; top: 0pt; left: 0pt; bottom: 0pt; right: 0pt; min-width: 760px; }
+.App.BottomUnmanaged .Middle { position: absolute; top: 4.6em; left: 0pt; right: 0pt; }
+.App.BottomUnmanaged .ContentLeft { position: absolute; top: 0pt; left: 0pt; }
+.App.BottomUnmanaged .ContentRight { position: absolute; top: 0pt; right: 0pt; left: 160px ! important; }
+.BottomUnmanaged #MainContent { margin-right: 0pt; }
+.NonThemedLinks, #error button, #error a, .InfoPaneInner a, .NoMsgsPane a, .SafetyBarItem A, .ReadMsgBody A { color: rgb(0, 104, 207); }
+.PrimaryTextColor, .ListItem SPAN, .ItemListContent A, .ListItem A, #MessageList A, .MessageListTitle, .MessageListTitle a, .AdvancedSearchTitle, .ToolbarItem SPAN.Disabled, .MeterText, #messageListContentContainer A, #fromAddrMenu A { color: rgb(42, 42, 42) ! important; }
+.Toolbar .ToolbarItem A, .ToolbarItem A { color: rgb(42, 42, 42); }
+.SecondaryTextColor, #FooterContainer span, .Bottom #miniFooter A { color: rgb(110, 110, 110); }
+.ExcoClosed { background-position: -1px -1px; width: 7px; height: 9px; }
+.ExcoClosed:hover { background-position: -10px -1px; width: 7px; height: 9px; }
+.ExcoOpen { background-position: -19px -1px; width: 7px; height: 9px; }
+.ExcoOpen:hover { background-position: -28px -1px; width: 7px; height: 9px; }
+.g_sort_desc { background-position: -49px -1px; width: 10px; height: 10px; }
+.g_close { background-position: -61px -1px; width: 10px; height: 10px; }
+.g_pdv_o { background-position: -85px -1px; width: 10px; height: 10px; }
+.i_pn_f { background-position: -97px -1px; width: 10px; height: 10px; }
+.i_pn_f_d { background-position: -109px -1px; width: 10px; height: 10px; }
+.i_pn_l { background-position: -121px -1px; width: 10px; height: 10px; }
+.i_pn_l_d { background-position: -133px -1px; width: 10px; height: 10px; }
+.i_pn_n { background-position: -145px -1px; width: 10px; height: 10px; }
+.i_pn_n_d { background-position: -157px -1px; width: 10px; height: 10px; }
+.i_pn_p { background-position: -169px -1px; width: 10px; height: 10px; }
+.i_pn_p_d { background-position: -181px -1px; width: 10px; height: 10px; }
+.CogMenuOn, .lnav_topItem:hover .MenuCog, .TurnOnMenu .MenuCog { background-position: -205px -1px; width: 12px; height: 12px; }
+.lnav_topItem:hover .MenuCog:hover, .Hover .MenuCog { background-position: -219px -1px; width: 12px; height: 12px; }
+.i_help { background-position: -546px -1px; width: 16px; height: 16px; }
+.i_print { background-position: -601px -1px; width: 16px; height: 16px; }
+.i_refresh { background-position: -619px -1px; width: 16px; height: 16px; }
+.i_c_u { background-position: -936px -1px; width: 20px; height: 20px; }
+.ContentLeft .ContentFolderQuickViewList { margin-top: 1px; }
+.Unmanaged .ContentLeft .ContentFolderQuickViewList { padding-bottom: 12px; }
+.ContentLeft .ContentFolderQuickViewList .lnav_itemLnk span.Caption, .ContentLeft .ContactGroupList span.Caption, .lnav_topItemLnk span.Caption { display: block; overflow: hidden; }
+.lnav_topItemLnk span.Caption { margin-right: 21px; }
+.List { margin: 0pt; list-style: none outside none; white-space: nowrap; padding: 0pt; width: auto; }
+.LeftNav LI.lnav_item, .LeftNavBasic LI { margin: 0pt; white-space: nowrap; clear: both; display: block; }
+.LeftNav LI.lnav_item A.lnav_itemLnk, .LeftNavBasic LI A { white-space: nowrap; clear: both; display: block; overflow: hidden; color: rgb(42, 42, 42); margin: 0pt; padding-bottom: 6px; padding-top: 6px; padding-left: 10px; border: 1px solid #FFFFFF; }
+.LeftNav LI.lnav_item A.lnav_itemLnkThemed { color: rgb(0, 102, 204); }
+.LeftNav LI.lnav_item, .LeftNavBasic LI { border: 1px solid #FFFFFF; }
+.lnav_topItem { margin: 0pt; padding-bottom: 1px; }
+.LeftNav LI.lnav_item A.lnav_topItemLnk { white-space: nowrap; overflow: hidden; color: rgb(42, 42, 42); }
+.ContentLeft .exco_main .lnav_topItemLabel { color: rgb(42, 42, 42); padding-left: 11px; }
+.lnav_topItemLabel .lnav_topItemLnk { padding-left: 10px; display: block; }
+.lnav_topItem, .lnav_topItemLabel, .lnav_topItemMenuIcon, .lnav_topItem .exco_hot { overflow: hidden; white-space: nowrap; }
+.lnav_topItemMenuIcon { position: absolute; right: 0pt; top: 2px; height: 18px; }
+.lnav_topItemMenuIcon A { padding: 5px; }
+.lnav_topItem.exco_hdr .lnav_topItemMenuIcon { top: 1px; }
+.MenuCog { vertical-align: middle; }
+.ExcoClosed, .ExcoOpen { width: 7px; height: 9px; vertical-align: middle; }
+.ContentLeft .exco_hdr { white-space: nowrap; margin-top: 13px; }
+.ContentLeft .exco_hdr A:hover { text-decoration: none; }
+.ContentFolderList .exco_hot, .ContentWebImContactList .exco_hot { display: block; margin-right: 19px; }
+.ContentWebImContactList UL { margin-bottom: 0pt; }
+.ContentLeft .lnav_topItem { cursor: pointer; position: relative; border: 1px solid rgb(252, 252, 252); }
+.ContentLeft .exco_icon { position: absolute; }
+.ContentLeft .exco_body { margin-top: 1px; }
+.ContentLeft .exco .exco_disabled .exco_body, .ContentLeft .exco .exco_disabled .exco_on, .ContentLeft .exco .exco_off { display: none; }
+.ContentLeft .RelP { margin: 8px 0pt 10px; }
+/* ::::: http://gfx4.hotmail.com/mail/16.0.1877.0920/styles/Base/Full/InboxAll.css ::::: */
+
+.MsgListMainContainer { clear: left; }
+.MsgListToolbarsContainer .ToolbarContainer { z-index: 3; background-position: left top; background-repeat: repeat-x; height: 2.35em; }
+.MsgListToolbarsContainer DIV.SearchPane { height: auto; background-color: rgb(255, 255, 255); }
+#srchQuery { padding: 6px 0pt 6px 12px; overflow: hidden; }
+.MsgListToolbarsContainer .TitleSearchContainer, .MsgListToolbarsContainer .SearchPane { border-bottom: medium none; height: 2.87em; }
+.TitleSearchContainer { padding-bottom: 5px; height: 2.35em; }
+.Unmanaged .TitleSearchContainer { list-style: none outside none; margin: 0pt; padding: 0pt; }
+.MsgListToolbarsContainer .SortFilterContainer { border-top: medium none; background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.MsgListToolbarsContainer .Toolbar { border: medium none; }
+.MsgListToolbarsContainer .ToolbarItem UL { padding: 2px; }
+.MsgListToolbarsContainer .ToolbarItem UL A { padding: 4px; }
+.MessageListTitle, .AsTop { padding-left: 10px; line-height: 131%; float: none; overflow: hidden; }
+.MessageListTitle A { padding-left: 0pt; padding-right: 6px; padding-bottom: 6px; margin: 0pt; }
+.MessageListTitle A, .AdvancedSearchTitle { padding-top: 2px; }
+.MessageListTitle SPAN { display: inline-block; }
+.ToolbarItemCheckbox INPUT { margin: 0pt; }
+.MsgListToolbarsContainer .ToolbarItemCheckbox { padding-top: 7px; padding-left: 10px; }
+.MessageListSplitPane { top: 0pt; z-index: 2; }
+.MessageListSplitPaneFull { bottom: 0pt; right: 0pt; }
+.BottomUnmanaged .MessageListSplitPaneFull { position: static; margin-top: 0pt; }
+.MessageListItems { background: none repeat scroll 0% 0% rgb(255, 255, 255); }
+.Unmanaged .MessageListItems, .Unmanaged .NoMsgsPane { min-height: 25em; }
+.PaginationContainer { height: 1.3em; padding: 4px 0pt; }
+.SplitterBar { position: absolute; }
+.SplitterBarHidden { z-index: -1; display: none; }
+.ReadingPaneSplitPane { z-index: 0; display: block; }
+.ReadingPaneSplitPaneFull { top: 0pt; left: 0pt; }
+.BottomUnmanaged .ReadingPaneSplitPaneFull { position: static; margin-top: 0pt; }
+.ReadingPaneSplitPaneHidden { z-index: -1; display: none; }
+.ReadingPaneContainer { background: none repeat scroll 0% 0% rgb(255, 255, 255); padding-top: 2px; padding-left: 10px; }
+.ReadingPaneSplitPaneFull .ReadingPaneContainer { border-width: 1px medium 1px 1px; border-style: solid none solid solid; border-color: rgb(204, 204, 204) -moz-use-text-color rgb(204, 204, 204) rgb(204, 204, 204); -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; }
+.ReadingPaneContainerNoActionBar { top: 0pt ! important; }
+.SearchBox { width: 245px; margin-top: 4px; }
+.SearchBox .c_search_mc { height: 2em; }
+.SearchBox .c_search_mc INPUT.c_search_box { margin-top: 3px; }
+.ShowAdvancedSearch, .HideAdvancedSearch { padding: 7px 7px 0pt; }
+.ShowAdvancedSearch A, .HideAdvancedSearch A { padding: 2px 4px 2px 5px; display: block; }
+.InboxTable { width: 100%; table-layout: fixed; }
+.InboxTable A { text-decoration: none; white-space: nowrap; }
+.InboxTable INPUT, .InboxTable IMG { padding: 0pt; margin: 0pt; }
+.InboxTable TD { padding: 1px; overflow: hidden; border-bottom: 1px solid rgb(240, 240, 240); cursor: pointer; white-space: nowrap; }
+.InboxTable .Io { padding-bottom: 0pt; vertical-align: middle; }
+.InboxTable .Im, .InboxTable .At { padding-top: 2px; padding-bottom: 0pt; padding-left: 2px; }
+.InboxTable .Ck { padding-left: 10px; padding-top: 4px; }
+.InboxTable .Fm { padding-left: 3px; text-overflow: ellipsis; }
+.InboxTable .Ct { text-align: right; padding-right: 3px; }
+.InboxTable .Sb { padding-left: 8px; text-overflow: ellipsis; }
+.InboxTable .Dt, .InboxTable .Sz, .InboxTable .Fol { color: rgb(110, 110, 110); font-weight: normal ! important; }
+.InboxTable .Dt, .InboxTable .Sz { text-align: right; }
+.InboxTable .Dt { padding-left: 8px; padding-right: 10px; }
+.InboxTable .Fg { padding-right: 8px; }
+.InboxTable .CheckBoxCol { width: 28px; }
+.InboxTable .IconCol { width: 22px; }
+.InboxTable .FlagCol { width: 24px; }
+.InboxTable .FromCol { width: 150px; }
+.InboxTable .CountCol { width: 35px; }
+.InboxTable .ImportanceAttCol { text-align: center; width: 18px; }
+.InboxTable .DateCol { width: 80px; }
+.fg IMG, .uf IMG { border: medium none; overflow: hidden; background: none no-repeat scroll 0% 0% transparent; height: 16px; width: 16px; }
+.PageNavigation { padding-right: 7px; }
+.PageNavigation UL { margin: 0pt; }
+.PageNavigation LI { height: 100%; list-style: none outside none; float: left; padding: 0pt 2px; }
+.PageNavigation LI A { display: block; }
+.PageNavigation LI A { padding: 0pt 2px 0pt 4px; }
+.PageNavigation LI > DIV > IMG { margin: 0pt 2px 0pt 4px; }
+.PageNavigation .ToolbarPipe { padding-bottom: 0pt; margin-bottom: 0pt; }
+#nextPageLink, #nextPageLink + DIV { margin-left: 3px; }
+.PageNavigationMsgRange { float: left; padding: 0pt 10px; }
+.FirstPageEnabled, .PrevPageEnable, .LastPageEnabled, .NextPageEnabled, .BeginOfList .FirstPageDisabled, .BeginOfList .PrevPageDisabled, .EndOfList .LastPageDisabled, .EndOfList .NextPageDisabled { display: block; }
+.FirstPageDisabled, .PrevPageDisabled, .LastPageDisabled, .NextPageDisabled, .BeginOfList .FirstPageEnabled, .BeginOfList .PrevPageEnabled, .EndOfList .LastPageEnabled, .EndOfList .NextPageEnabled { display: none; }
+#CloseMessaging { float: right; padding-top: 12px; padding-right: 11px; }
+#SelMsgPaneInner { padding: 11px 11px 9px; overflow: hidden; }
+#genMsg { overflow-x: hidden; word-wrap: break-word; text-overflow: ellipsis; }
+#SelMsgPaneInner H3 { color: rgb(68, 68, 68) ! important; }
+.NoRP #SelMsgPaneInner H3 { font-size: 100%; font-weight: normal; line-height: 131%; display: inline; }
+.ReadMsgSafetyBar, .WideMessageBar, .MaxMessagesBar, .ReadingPaneContainer .InfoPaneInner { margin: 9px 12px 0pt; padding: 3px 8px 5px; height: auto ! important; overflow: hidden; text-overflow: ellipsis; }
+.SafetyBarPri-medium, .WideMessageBar, .MaxMessagesBar { background: none repeat scroll 0% 0% rgb(255, 255, 174); }
+.FilterSelector .Fs_iscol .Fs_col, .FilterSelector .Fs_iscol .Fs_colb0, .FilterSelector .Fs_colb1 { display: none; }
+.FilterSelector .Fs_l, .FilterSelector .Fs_f, .FilterSelector .Fs_p { white-space: nowrap; float: left; }
+.FilterSelector .Fs_l, .FilterSelector .Fs_p, .FilterSelector A { color: rgb(42, 42, 42) ! important; padding: 6px 0pt; display: block; }
+.FilterSelector .Fs_p { color: rgb(204, 204, 204) ! important; }
+.FilterSelector .Fs_f A { padding: 6px 8px; }
+.FilterSelector .Fs_c A { font-size: 125%; padding: 3px 0pt; text-decoration: none; }
+.FilterSelector .Selected A { font-weight: bold; text-decoration: none; cursor: default; }
+.FilterSelector { padding-left: 48px; }
+.mlUnrd *, .mlUnrd { font-weight: bold; }
+.LeftNav LI.ItemSelected A.lnav_itemLnk, .LeftNav LI.ItemSelected .lnav_topItem { border: 1px solid rgb(131, 170, 218); }
+.LeftNav LI.lnav_item .lnav_itemLnk:hover, .ContentLeft .lnav_topItem:hover, .MenuOn.lnav_topItem, .LeftNavBasic LI A:hover { border: 1px solid rgb(187, 216, 251); background-color: rgb(243, 247, 253); }
+.MsgPartToolbar .ToolbarItem A, .ReadMsgTop .CloseLink SPAN, .ReadMsgTop .FullViewButton SPAN, .LinkColor, .ThemedLinkContainer A, A { color: rgb(0, 102, 204); }
+.DefaultFont, BODY, BODY.IE_M7, BODY.IE_M8, BODY.Win6, TEXTAREA, SELECT, INPUT, .c_hf INPUT, BUTTON, .c_h .signOut, .EditArea, .ExternalClass { font-family: Segoe UI,Tahoma,Verdana,Arial,sans-serif; line-height: normal; }
+BODY { font-size: 83%; }
+.App .Middle, .App .FooterContainer, #PageBottomElt, .ManageFolders #mainLayoutTable, .ManageFolders #uxp_ftr_control { font-size: 90%; }
+A { text-decoration: none; }
+B, STRONG, .BoldText { font-weight: bold; }
+I, EM, .TextItalic { font-style: italic; }
+.TextSizeLargeLoc { font-size: 125%; }
+.ExcoClosed, .ExcoClosed:hover, .ExcoOpen, .ExcoOpen:hover, .g_sort_asc, .g_sort_desc, .g_close, .g_pdv_c, .g_pdv_o, .i_pn_f, .i_pn_f_d, .i_pn_l, .i_pn_l_d, .i_pn_n, .i_pn_n_d, .i_pn_p, .i_pn_p_d, .i_voicemail_s, .CogMenuOn, .lnav_topItem:hover .MenuCog, .TurnOnMenu .MenuCog, .lnav_topItem:hover .MenuCog:hover, .Hover .MenuCog, .i_att_s, .i_imp_hi_s, .i_imp_lo_s, .yl_sdi, .rd_sdi, .pr_sdi, .bl_sdi, .gr_sdi, .pi_sdi, .mr_m_c, .mr_m_r, .mr_r_a, .mr_r_d, .mr_r_t, .i_calllog, .i_ts, .i_voicemail, .i_help, .i_help_he, .i_new, .i_print, .i_refresh, .i_sortby, .i_info, .i_c_a_r, .i_c_a_rf, .i_c_a_rr, .i_c_a_u, .i_c_a_uf, .i_c_a_ur, .i_c_r, .i_c_rf, .i_c_rr, .i_c_ru, .i_c_ruf, .i_c_rur, .i_c_u, .i_c_uf, .i_c_ur { background-image: url('i_strip.png'); background-color: transparent; background-repeat: no-repeat; background-attachment: scroll; overflow: hidden; }
+.uf IMG { background-image: url('fg0.png'); }
+.i_refresh, .i_refreshing { border: medium none; overflow: hidden; background-repeat: no-repeat; height: 16px; width: 16px; }
+.TableHeaderGradient { background-image: url('table_header_gradient_1.png'); }

@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+
+.page{width:100%;border:1px solid #ccc;background:#333;margin:5px 0 10px}
+.pages{font:83%/1.4 arial, helvetica, sans-serif;clear:left;font-size:85%;margin:1px 0 23px 5px;padding:0 auto}
+.pages a,.pages span{color:#333;display:block;float:left;margin-right:.1em;border:1px solid #fff;background:#fff;padding:.2em .5em}
+.pages span.current{border:1px solid #ccc;font-weight:700;background:#ccc;color:#fff}
+.pages a{border:1px solid #ccc;text-decoration:none}
+.pages a:hover{border-color:#333}
+.pages a.nextprev{font-weight:700}
+.pages span.nextprev{border:1px solid #ddd;color:#999}

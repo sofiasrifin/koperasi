@@ -1,0 +1,8 @@
+tampil_data1.php	--> untuk menampilkan tab simpanan
+tampil_data2.php	--> untuk menampilkan tab pertanggal
+tampil_data3.php	-->  untuk menampilkan tab daftar
+
+cari_anggota.php	--> untuk menampilkan info anggota secara otomatis ketika no anggota diketik
+cari_jenis.php		--> untuk menampilkan jenis simpanan ketika combo box dipilih otomatis jumlah keluar
+simpanan.php		--> untuk mengatur tampilan menu aplikasi
+simpan.php		--> untuk menyimpan ke database

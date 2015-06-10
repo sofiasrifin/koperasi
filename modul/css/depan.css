@@ -1,0 +1,451 @@
+.bawah {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 5px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	vertical-align: 0%;
+	border: 1px solid #333333;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #FFFFFF;
+}
+
+.welcome {
+	color : #cccccc;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+
+.welcome a:link{
+	color : #cccccc;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+
+.welcome a:hover{
+	color : #999999;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.welcome a:visited{
+	color : #cccccc;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration: none;
+}
+.rightform {
+	color : #006633;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.rightform a:link{
+	color : #006633;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.rightform a:visited{
+	color : #006633;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: normal;
+	margin-top: 2px;
+}
+.mapmenu {
+	color : #A4CDD5;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	font-weight: normal;
+	margin-top: 2px;
+}
+
+.judulblack {
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.judulblack a:link{
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+.judulblack a:hover{
+	color : #333333;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+.judulblack a:visited{
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+.halmuka {
+	color : #000000;
+	margin-top : 2px;
+	padding-bottom : 5px;
+	margin-bottom : 0px;
+	margin-left : 10px;
+	margin-right : 10px;
+	font-size : 11px;
+	font-family : Tahoma, Verdana, Arial;
+	line-height: 15px;
+	letter-spacing: normal;
+}
+a {
+	color : #000033;
+}
+a:hover {
+	color : #666666;
+}
+.formcari{
+	color : #F3400F;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.berita {
+
+	color : #000000;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}
+.baca {
+	color : #000000;
+	font-size : 11px;
+	font-family : verdana;
+	vertical-align: 1%;
+}
+.tgl {
+	color : #666666;
+	font-size : 10px;
+	font-family : Tahoma,Verdana,Arial;
+}
+.judul {
+	color : #F3400F;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+.judulbesar {
+	color : #F3400F;
+	font-size : 13px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+}
+
+.normal {
+
+	color : #000000;
+
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}
+.copyright {
+	color : #000000;
+	font-size : 10px;
+	font-family :Verdana;
+}
+.tabel {
+	color : #669900;
+	font-size : 11px;
+	font-family :Verdana;
+	padding: 4px;
+	text-transform: none;
+	margin: 4px;
+}
+.tabel a:hover{
+	color : #669900;
+	font-size : 11px;
+	font-family :Verdana;
+}
+.tombol {
+	background: #F1F3F5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #333333;
+}
+table.adminlist {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #ddd;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table.adminlist th {
+	margin: 0px;
+	padding: 6px 4px 2px 4px;
+	height: 25px;
+	background: url(../images/background.jpg);
+	background-repeat: repeat;
+	font-size: 11px;
+	color: #000;
+}
+table.adminlist th.title {
+	text-align: left;
+}
+
+table.adminlist th a:link, table.adminlist th a:visited {
+	color: #c64934;
+	text-decoration: none;
+}
+
+table.adminlist th a:hover {
+	text-decoration: underline;
+}
+
+table.adminlist tr.row0 {
+	background-color: #F9F9F9;
+}
+table.adminlist tr.row1 {
+	background-color: #FFF;
+}
+table.adminlist td {
+	border-bottom: 1px solid #e5e5e5;
+	padding: 4px;
+}
+table.adminlist tr.row0:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist tr.row1:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist td.options {
+	background-color: #ffffff;
+	font-size: 8px;
+}
+
+.judulwhite {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	text-transform: capitalize;
+	color : #E1E1E1;
+
+}
+.judulwhite a:link{
+	color : #E1E1E1;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+.judulwhite a:hover{
+	color : #EAEAEA;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+.judulwhite a:visited{
+	color : #E1E1E1;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+	font-weight: bold;
+	text-decoration:none;
+}
+.div {
+	background: #F1F3F5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #333333;
+	margin: 0px;
+	padding: 5px;
+	color: #2F6C60;
+}
+.div1 {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	background-color: #FAFAF8;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+}
+.kategori {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	border: 1px solid #333333;
+	margin: 0px;
+	padding: 5px;
+	color: #2F6C60;
+	background-color: #B8D5DA;
+}
+.artikel {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	background-image: url(../image/kicker.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+	vertical-align: 0%;
+}
+.news {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	background-image: url(../image/fileshare.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+}
+.konsultasi {
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	background-image: url(../image/konsultasi.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+}
+.softbook {
+
+
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	background-image: url(../image/softbook.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+}
+.katbawah {
+	color : #634312;
+	font-size : 11px;
+	font-family : verdana;
+	vertical-align: 1%;
+	text-transform: none;
+	line-height: 1px;
+}
+.artikel {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	padding: 5px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+	background-image: url(../image/artikel.gif);
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+}
+.tomboldaftar {
+	background: #F1F3F5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	border: 1px solid #333333;
+	height: 16px;
+}
+.warn {
+
+	color : #666666;
+	font-size : 11px;
+	font-family : Tahoma,Verdana,Arial;
+}

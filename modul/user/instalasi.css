@@ -1,0 +1,30 @@
+.judul {
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+}
+.judul1{
+	font-family: verdana;
+	font-size: 13px;
+	font-weight: bold;
+	line-height: 28px;
+}
+.tulisan {
+	font-family: verdana;
+	font-size: 12px;
+	line-height: 18px;
+	height: 25px;
+}
+.tulisan1 {
+	font-family: verdana;
+	font-size: 11px;
+	line-height: 15px;
+}
+.tombol {
+	background-color: #E8E8E8;
+	border: 1px solid #CCCCCC;
+	font-family: verdana;
+	font-size: 11px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}

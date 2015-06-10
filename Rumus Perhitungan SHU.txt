@@ -1,0 +1,26 @@
+* Pendapatan
+saldo_awal+kredit-debet
+
+* Beban 
+saldo_awal+debet-kredit
+
+* Barang Tersedia Dijual
+Persediaan barang awal + pembelian
+
+* Total HPP
+barang tersedia dijual - persedian akhir
+
+* Pendapatan Kotor
+total pendapatan usaha - total hpp
+
+* Total beban Usaha
+total beban toko + total beban administrasi
+
+* Hasil Usaha
+Pendapatan kotor - Total beban Usaha
+
+* Total beban semua 
+Total beban usaha + total beban lain
+
+* Sisa Hasil Usaha
+hasil semua - total beban semua

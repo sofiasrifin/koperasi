@@ -1,0 +1,13 @@
+File Edit
+*cari.php
+
+
+Kalau ga bisa tampil berarti yang dibenarkan post-json.php
+
+
+jika data pada gridview tidak tempil berarti ada masalah pada file
+*post-json.php
+  periksa pada
+ - pada query mysql
+ - line 58-69
+*ajax.php

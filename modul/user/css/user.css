@@ -1,0 +1,492 @@
+  .sn_scroll {
+	height: 300px;
+	overflow: -moz-scrollbars-vertical;
+	overflow: -moz-scrollbars-vertical;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	clear: left;
+	padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 0px;
+	padding-left: 4px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #999999;
+	border-bottom-color: #999999;
+	border-left-color: #999999;
+	margin: 0;
+}
+.konsultasi {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	background-repeat: repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+	vertical-align: 0%;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 7px;
+	border: 1px solid #999999;
+	background-image: url(../images/background.gif);
+}
+.topage {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #D2CEB0;
+	vertical-align: 0%;
+	padding-top: 7px;
+	padding-right: 5px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 0px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+}
+
+.button {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #C1DCE1;
+	border: 1px solid #CCCCCC;
+	padding: 0px;
+	margin: 0px;
+	height: 21px;
+	width: 45px;
+}
+.form {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-color: #FFFFFF;
+	border: 1px solid #CCCCCC;
+	padding-top: 3px;
+	margin-top: 6px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	color: #9F9F9F;
+}
+.warna {
+	font-family: verdana;
+	font-size: 11px;
+	color: #4686C6;
+}
+.warna_gelap {
+	font-family: verdana;
+	font-size: 11px;
+	color: #990000;
+}
+
+.atas {
+	font-family: arial;
+	font-size: 11px;
+	color: #333333;
+}
+.atas a:link{
+	font-family: arial;
+	font-size: 11px;
+	color: #000066;
+}
+.atas a:hover{
+	font-family: arial;
+	font-size: 11px;
+	color: #666666;
+}
+
+.menu {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	padding: 2px;
+	width: 4px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.menu a:link{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+	padding: 2px;
+	width: 4px;
+	text-decoration: none;
+}
+.menu a:hover{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #CCCCCC;
+	padding: 2px;
+	width: 4px;
+	text-decoration: none;
+}
+table.adminlist1 {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #333333;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+table.adminlist1 th {
+	margin: 0px;
+	height: 30px;
+	background-repeat: repeat;
+	font-size: 12px;
+	color: #000;
+	padding-top: 6px;
+	padding-right: 4px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	background-image: url(../images/garis_back.gif);
+}
+table.adminlist1 th a:link, table.adminlist1 th a:visited {
+	color: #c64934;
+	text-decoration: none;
+}
+
+table.adminlist1 th a:hover {
+	text-decoration: underline;
+}
+
+table.adminlist1 tr.row0 {
+	background-color: #F9F9F9;
+	height: 26px;
+	border: 1px solid #000000;
+}
+table.adminlist1 tr.row1 {
+	background-color: #FFF;
+	border: 1px solid #000000;
+}
+table.adminlist1 td {
+	padding: 3px;
+	border: 1px solid #000000;
+}
+table.adminlist1 tr.row0:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist1 tr.row1:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist1 td.options {
+	background-color: #ffffff;
+	font-size: 8px;
+}
+
+
+
+
+
+
+
+
+
+table.adminlist {
+	background-color: #FFFFFF;
+	margin: 0px;
+	padding: 0px;
+	border: 1px solid #999999;
+	border-spacing: 0px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+table.adminlist th {
+	margin: 0px;
+	padding: 6px 4px 2px 4px;
+	height: 25px;
+	background: url(../images/background.jpg);
+	background-repeat: repeat;
+	font-size: 11px;
+	color: #000;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #999999;
+}
+table.adminlist th.title {
+	text-align: left;
+}
+
+table.adminlist th a:link, table.adminlist th a:visited {
+	color: #c64934;
+	text-decoration: none;
+}
+
+table.adminlist th a:hover {
+	text-decoration: underline;
+}
+
+table.adminlist tr.row0 {
+	background-color: #F9F9F9;
+	border-top-width: 1px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-top-color: #999999;
+	height: 20px;
+}
+table.adminlist tr.row1 {
+	background-color: #FFF;
+}
+table.adminlist td {
+	border-bottom: 1px solid #999999;
+	padding: 3px;
+}
+table.adminlist tr.row0:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist tr.row1:hover {
+	background-color: #f1f1f1;
+}
+table.adminlist td.options {
+	background-color: #ffffff;
+	font-size: 8px;
+}
+.judulcy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding: 5px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	vertical-align: 0%;
+	margin-top: 3px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #E9E7D8;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #D3E2E7;
+	border-right-color: #D3E2E7;
+	border-bottom-color: #D3E2E7;
+	border-left-color: #D3E2E7;
+}
+.tengah {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #FFFFFF;
+	vertical-align: 0%;
+	border: 1px solid #666666;
+	padding: 0px;
+}
+.buttons A {
+	DISPLAY: block;
+	COLOR: #039;
+	TEXT-ALIGN: left;
+	TEXT-DECORATION: none;
+	font-family: verdana;
+	font-size: 11px;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	border: 1px solid #CCCCCC;
+	font-weight: bold;
+}
+.buttons A:hover {
+	COLOR: #039;
+	TEXT-DECORATION: none;
+	background-color: #F1F4F5;
+}
+.button1 A {
+	DISPLAY: block;
+	COLOR: #039;
+	TEXT-ALIGN: left;
+	TEXT-DECORATION: none;
+	background-color: #FFFFFF;
+	font-family: verdana;
+	font-size: 11px;
+	padding-top: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
+	padding-left: 4px;
+	border-top-width: 0px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #CCCCCC;
+	border-right-color: #CCCCCC;
+	border-bottom-color: #CCCCCC;
+	border-left-color: #CCCCCC;
+	font-weight: bold;
+}
+.button1 A:hover {
+	COLOR: #039;
+	TEXT-DECORATION: none;
+	background-color: #F1F4F5;
+}
+.baca {
+	font-family: "Courier New", Courier, monospace;
+	font-size: 12px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	vertical-align: 0%;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.bacas {
+	font-family: verdana;
+	font-size: 14px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	vertical-align: 0%;
+	border: 1px solid #666666;
+}
+
+.pesan {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #EEF7F9;
+	vertical-align: 0%;
+	border: 1px solid #666666;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 4px;
+	margin: 0px;
+}
+.topage {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #F7F8EF;
+	vertical-align: 0%;
+	border: 1px solid #333333;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 7px;
+}
+.teman {
+
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	margin: 0px;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-position: center center;
+	background-color: #D2CEB0;
+	vertical-align: 0%;
+	padding-top: 7px;
+	padding-right: 5px;
+	padding-bottom: 7px;
+	padding-left: 7px;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #333333;
+	border-right-color: #333333;
+	border-bottom-color: #333333;
+	border-left-color: #333333;
+}
+.sn_scroll1 {
+	height: 330px;
+	overflow: -moz-scrollbars-vertical;
+	overflow: -moz-scrollbars-vertical;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	clear: left;
+	padding-top: 0px;
+	padding-right: 0;
+	padding-bottom: 0px;
+	padding-left: 4px;
+	margin: 0;
+	border: 1px solid #999999;
+}
+div.pager {
+	padding: 2px;
+	margin: 2px;
+	font-size:11px;
+	font-family: verdana;
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+}
+div.pager a {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #FFFFFF;
+	text-decoration: none;
+	color: #000099;
+	background-color: #CCCCCC;
+}
+div.pager a:hover, div.pager a:active {
+	border: 1px solid #000099;
+	color: #000;
+}
+div.pager span.on {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #000099;
+	font-weight: bold;
+	background-color: #ccc;
+	color: #333;
+}
+div.pager span.off {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #eee;
+	color: #000000;
+	background-color: #F2F2F2;
+}
+div.pager span.off1 {
+	padding: 2px 5px 2px 5px;
+	margin: 2px;
+	border: 1px solid #eee;
+	color: #000000;
+	background-color: #FFFF00;
+}

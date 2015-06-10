@@ -1,0 +1,1 @@
+INSERT INTO `pengaturan` VALUES (3,'Header & Footer SMS','header_footer.php');

@@ -1,0 +1,85 @@
+These Windows services are started:
+
+   ##Id_String1.6844F930_1628_4223_B5CC_5BB94B879762##
+   Apache2.2
+   Application Information
+   Background Intelligent Transfer Service
+   Background Tasks Infrastructure Service
+   Base Filtering Engine
+   Canon Inkjet Printer/Scanner/Fax Extended Survey Program
+   Certificate Propagation
+   COM+ Event System
+   Computer Browser
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Device Association Service
+   Device Setup Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Diagnostic System Host
+   Distributed Link Tracking Client
+   DNS Client
+   FLEXnet Licensing Service
+   Function Discovery Resource Publication
+   HomeGroup Listener
+   HomeGroup Provider
+   IKE and AuthIP IPsec Keying Modules
+   IP Helper
+   IPsec Policy Agent
+   Local Session Manager
+   Multimedia Class Scheduler
+   MySQL
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Peer Name Resolution Protocol
+   Peer Networking Grouping
+   Peer Networking Identity Manager
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Protexis Licensing V2
+   Remote Access Connection Manager
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Secure Socket Tunneling Protocol Service
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SQL Server (SQLEXPRESS)
+   SQL Server VSS Writer
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   System Events Broker
+   Task Scheduler
+   TeamViewer 8
+   Telephony
+   Themes
+   Time Broker
+   UI Assistant Service
+   UPnP Device Host
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Connection Manager
+   Windows Defender Service
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Media Player Network Sharing Service
+   Windows Search
+   WinHTTP Web Proxy Auto-Discovery Service
+   WLAN AutoConfig
+   Workstation
+   WWAN AutoConfig
+
+The command completed successfully.
+

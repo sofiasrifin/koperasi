@@ -1,0 +1,49 @@
+Keterangan Pengkodean REKENING/AKUN :
+___________________________________
+
+Terdiri Dari 6 DIGIT :
+
+DIGIT Ke-1 : Menunjukan Kelompok Akun
+DIGIT Ke-2 : Menunjukan Golongan Akun
+DIGIT Ke-2 : Menunjukan Jenis Akun
+
+Kelompok Akun Terdiri Dari :
+
+1_ _ _ _ _  HARTA
+2_ _ _ _ _  UTANG
+3_ _ _ _ _  MODAL
+4_ _ _ _ _  PENDAPATAN
+5_ _ _ _ _  BEBAN
+
+GOLONGAN AKUN, CONTOHNYA :
+
+11_ _ _ _ HARTA LANCAR
+12_ _ _ _ HARTA TETAP
+13_ _ _ _ HARTA LAIN-LAIN
+21_ _ _ _ UTANG LANCAR
+31_ _ _ _ MODAL ABDURRAHMAN
+41_ _ _ _ PENDAPATAN USAHA
+42_ _ _ _ PENDAPATAN DILUAR USAHA
+51_ _ _ _ PEMBELIAN BAHAN BAKU
+52_ _ _ _ BEBAN GAJI 
+53_ _ _ _ BEBAN LISTRIK AIR TELEPON
+
+JENIS AKUN, CONTOHNYA :
+
+111_ _ _ KAS 
+112_ _ _ PIUTANG
+113_ _ _ PERSEDIAAN
+121_ _ _ PERALATAN
+122_ _ _ TANAH
+Dan Lain-Lain.
+
+
+
+AKTIVA	    : HARTA
+PASSIVA	    : HUTANG , MODAL
+
+
+Laporan Buku Besar itu seperti pada jurnal umum bedanya ditampilkan berdasarkan
+kelompok akun
+
+Laporan Arus Kas mengambil pada kelompok Akun Harta

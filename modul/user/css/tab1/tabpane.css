@@ -1,0 +1,74 @@
+.dynamic-tab-pane-control.tab-pane {
+	position:	relative;
+	/*width:		100%;		 width needed weird IE bug */
+	/*margin-right:	-2px;	 to make room for the shadow */
+}
+.dynamic-tab-pane-control .tab-row .tab {
+	width: 97px;
+	height: 17px;
+	background-image: url( "tab.png" );
+	position: relative;
+	top: 0;
+	display: inline;
+	float: left;
+	overflow: hidden;
+	cursor: pointer;
+	margin: 2px -1px 1px 2px;
+	padding: 5px 0px 0px 0px;
+	border: 0;
+	z-index: 1;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Tahoma, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.dynamic-tab-pane-control .tab-row .tab.selected {
+	width: 101px !important;
+	height: 21px !important;
+	background-image:	url( "tab_active.png" ) !important;
+	background-repeat: no-repeat;
+	border-bottom-width:	0;
+	z-index: 3;
+	padding: 8px 0px 0px 0px;
+	margin: 0px -3px -3px 0px;
+	top: 0px;
+	font: 11px Tahoma, Helvetica, sans-serif;
+}
+.dynamic-tab-pane-control .tab-row .tab a {
+	color: #345298;
+	text-decoration: none;
+	cursor: pointer;
+	margin-top: 4px;
+	font-family: arial;
+	font-size: 11px;
+	font-weight: bold;
+	text-indent: 2px;
+}
+.dynamic-tab-pane-control .tab-row .tab.hover {
+	font:	11px Tahoma, Helvetica, sans-serif;
+	width: 97px;
+	height: 17px;
+	background-image:	url( "tab_hover.png" );
+	background-repeat: no-repeat;
+}
+.dynamic-tab-pane-control .tab-page {
+
+	border: 1px solid rgb( 145, 155, 156 );
+	background: rgb( 252, 252, 254 );
+	z-index: 2;
+	position: relative;
+	top: -2px;
+	font: 11px Tahoma, Helvetica, sans-serif;
+	color: #333;
+	
+	/*244, 243, 238*/
+	/* 145, 155, 156*/
+	padding:	5px;
+	width: 97%;  /* stupid stupid stupid IE!!! */
+	float: left;
+
+}
+.dynamic-tab-pane-control .tab-row {
+	z-index: 1;
+	white-space: nowrap;
+}

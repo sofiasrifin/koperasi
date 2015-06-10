@@ -1,0 +1,2 @@
+* akun yang langsung dimasukkan di saldo awal yang ga ada transaksi pada master rekening itu apa saja??
+* apakah persediaan barang dagang awal sama dengan HPP pembelian minimarket?
